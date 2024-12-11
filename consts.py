@@ -1,2 +1,3 @@
 TAB_SIZE = 4
 TAB = " "*TAB_SIZE
+MIN_CHAR = 3
